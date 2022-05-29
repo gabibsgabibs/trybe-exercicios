@@ -1,0 +1,33 @@
+div {
+  width: 200px;
+  height: 78px;
+  background-image: url(https://icon-library.com/images/car-icon/car-icon-0.jpg);
+  background-size: contain;
+  transform: scaleX(-1);
+}
+
+.title-heading {
+  background-color: rgb(30, 153, 77);
+  color: white;
+  font-family: monospace;
+  font-size: xx-large;
+}
+
+.center {
+  padding: 10px;
+  text-align: center;
+}
+
+.car-section{
+  padding-top: 20px;
+}
+
+.car1 {
+  background-color: rgb(255, 94, 0);
+  margin-left: 0px;
+}
+
+.car2 {
+  background-color: rgb(255, 214, 30);
+  margin-left: 0px;
+}
