@@ -1,0 +1,72 @@
+<!-- Exercício 1
+Crie um cabeçalho para sua aplicação utilizando a tag header. Este cabeçalho deve possuir 3 elementos e estes devem ser posicionados utilizando Flexbox. O resultado deverá ser similar à estrutura da página "Trybe Tech-Gallery".
+
+Exercício 2
+Implemente o conteúdo da primeira section. Esta seção deverá conter no mínimo um elemento de texto. Utilizando Flexbox.
+
+Exercício 3
+Implemente o posicionamento da segunda section. Esta seção deverá conter no mínimo 6 imagens e um título para cada uma delas. Sinta-se livre para usar a imaginação e selecionar as imagens que preferir, só não esqueça de seguir a estrutura de posicionamento proposta.
+
+Exercício 4
+Por fim, faça o posicionamento do footer/rodapé, este é o ultimo elemento necessário para que nossa aplicação fique completa. O rodapé deverá conter no mínimo 2 elementos. Para o exemplo, foram adicionadas imagens que redirecionam o usuário para as redes sociais da Trybe. -->
+
+<!DOCTYPE html>
+<html lang="pt">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trybe Tech-Gallery</title>
+    <link rel = "stylesheet" type = "text/css" href = "style.css" />
+  </head>
+
+  <body>
+    <header>
+      <img class="header-img" src="./images/trybe-logo.jpg" alt="Website logo" />
+      <h3>TRYBE TECH-GALLERY</h1>
+      <h4>SIGN-UP</h3>
+    </header>
+
+    <section class="paragraph">
+      <p>Take a look at some of the technologies which you will learn in our fundamentals and front-end module!</p>
+    </section>
+    <section class="container">
+      <div class="group1">
+        <div class="tech-div">
+          <h4>HTML</h4>
+          <img class="gallery-img" src="./images/html-logo.png" alt="HTML logo" />
+        </div>
+        <div class="tech-div">
+          <h4>CSS</h4>
+          <img class="gallery-img" src="./images/css-logo.png" alt="CSS logo" />
+        </div>
+        <div class="tech-div">
+          <h4>JAVASCRIPT</h4>
+          <img class="gallery-img" src="./images/javaScript-logo.png" alt="JavaScript logo" />
+        </div>
+      </div>
+      <div class="group2">
+        <div class="tech-div">
+          <h4>REACT</h4>
+          <img class="gallery-img" src="./images/react-logo.png" alt="React logo" />
+        </div>
+        <div class="tech-div">
+          <h4>RTL</h4>
+          <img class="gallery-img" src="./images/rtl-logo.png" alt="React Testing Library logo" />
+        </div>
+        <div class="tech-div">
+          <h4>REDUX</h4>
+          <img class="gallery-img" src="./images/redux-logo.png" alt="Redux logo" />
+        </div>
+      </div>
+      <hr />
+    </section>
+    <footer>
+      <a href="https://www.instagram.com/betrybe/" target="_blank">
+        <img class="social-img" src="./images/instagram-logo.png" alt="Instagram logo" />
+      </a>
+      <a href="https://www.linkedin.com/school/betrybe/" target="_blank">
+        <img class="social-img" src="./images/linked-in-logo.png" alt="Linkedin logo" />
+      </a>
+    </footer>
+  </body>
+</html>

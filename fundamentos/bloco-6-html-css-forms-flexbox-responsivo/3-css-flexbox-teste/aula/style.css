@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.menu {
+  display: flex;
+  background-color: #eca691;
+  color: white;
+  padding: 20px;
+  justify-content: space-between;
+}
+
+.links {
+  display: flex;
+}
+
+.login {
+  margin-left: 20px;
+}
+
+.header {
+  display: flex;
+  height: 300px;
+  background-color: #f1cebd;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
