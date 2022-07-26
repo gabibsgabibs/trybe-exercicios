@@ -1,0 +1,9 @@
+* {
+  margin: 5px;
+}
+
+input {
+  min-width: 20rem;
+  padding: 0.8rem;
+  border-radius: 0.5rem;
+}
