@@ -96,38 +96,38 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   - [X] 9-1: _JavaScript Assíncrono e Callbacks_
   - [X] 9-2: _JavaScript Assíncrono - Fetch API e async/await
   - [X] 9-3: _Jest - Testes Assíncronos_
-  - [ ] 9-3: _[Projeto - Carrinho de Compras]()_
+  - [X] 9-3: _[Projeto - Carrinho de Compras]()_
 </details>
 
 <details>
   <summary> Bloco 10: Introdução - React </summary>
 
-  - [ ] 10-1: _'Hello, world!' no React!_
-  - [ ] 10-2: _Componentes React_
-  - [ ] 10-3: _[Projeto - Sistema Solar]()_
+  - [X] 10-1: _'Hello, world!' no React!_
+  - [X] 10-2: _Componentes React_
+  - [X] 10-3: _[Projeto - Sistema Solar]()_
 </details>
 
 <details>
   <summary> Bloco 11: React </summary>
 
-  - [ ] 11-1: _Componentes com estado e eventos_
-  - [ ] 11-2: _Formulários no React_
-  - [ ] 11-3: _[Projeto - Tryunfo]()_
+  - [X] 11-1: _Componentes com estado e eventos_
+  - [X] 11-2: _Formulários no React_
+  - [X] 11-3: _[Projeto - Tryunfo]()_
 </details>
 
 <details>
   <summary> Bloco 12: React </summary>
 
-  - [ ] 12-1: _Ciclo de vida de componentes em React_
-  - [ ] 12-2: _React Router_
-  - [ ] 12-3: _[Projeto - TrybeTunes]()_
+  - [X] 12-1: _Ciclo de vida de componentes em React_
+  - [X] 12-2: _React Router_
+  - [X] 12-3: _[Projeto - TrybeTunes]()_
 </details>
 
 <details>
   <summary> Bloco 13: Metodologias Ágeis </summary>
 
-  - [ ] 13-1: _Metodologias Ágeis_
-  - [ ] 13-2: _[Projeto - Frontend Online Store]()_
+  - [X] 13-1: _Metodologias Ágeis_
+  - [X] 13-2: _[Projeto - Frontend Online Store]()_
 </details>
 
 <details>
